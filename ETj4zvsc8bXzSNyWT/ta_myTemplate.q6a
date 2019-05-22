@@ -1,0 +1,168 @@
+{
+	"fileName": "ta_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "3f49a8d8-e282-1936-5d2e-1d8b1e73aa66",
+			"fileTemplateDate": "2019-05-22T21:07:17.533Z",
+			"fileTemplateCollections": [
+				"ETj4zvsc8bXzSNyWT"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"ETj4zvsc8bXzSNyWT"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "AxXG8DMiN8ZSwsJPR",
+			"possibleLanguages": [
+				"mnDTnJkmaLrPH7ym5",
+				"zn7qJXuhM7u8mKBv9",
+				"aq4ZMbSxmSSLxkALv",
+				"Dr4RNHKrjP7P5Ekm2"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "97a1b638-c381-704d-d185-913fba95c48c",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsEditableCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "আপলোড করুন - ভাবমূর্তি?",
+						"fieldKey": "ভাবমূর্তি",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "56e93d12-0059-0151-f180-c41248f670f5",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsEditableCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "আপলোড করুন - ভিডিও?",
+						"fieldKey": "ভিডিও",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "d48ec499-0b78-f183-3fb6-17ab32594c32",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsEditableCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "আপলোড করুন - অডিও?",
+						"fieldKey": "অডিও",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "4c461795-7fcb-0828-acb8-177361b58927",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsEditableCollections": [
+							"ETj4zvsc8bXzSNyWT"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "আপলোড করুন - পাঠ্যবাক্স?",
+						"fieldKey": "পাঠ্যবাক্স",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
